@@ -55,13 +55,19 @@
 ## 🌍 Nature Family
 
 - **Nature**
-<!--
-- 📌 *Deep learning enables rapid cryo-EM structure determination*  
-  **Journal:** *Nature Methods*, 2020  
-  **Authors:** John Doe et al.  
-  **Topics:** AI + Biology, Cryo-EM, Structure Determination  
-  **[PDF](link) | [DOI](link) | [Code](GitHub/Repo/if available)**
--->
+  
+  📌 *All-analog photoelectronic chip for high-speed vision tasks*  
+  **Journal:** *Nature*, 2023  
+  **Authors:** Yitong Chen, Maimaiti Nazhamaiti, Han Xu, Yao Meng, Tiankuang Zhou, Guangpu Li, Jingtao Fan, Qi Wei, Jiamin Wu, Fei Qiao, Lu Fang & Qionghai Dai  
+  **Topics:** AI + electronic + light; Chip  
+  **[PDF](https://www.nature.com/articles/s41586-023-06558-8)**
+
+   📌 *A vision chip with complementary pathways for open-world sensing*  
+  **Journal:** *Nature*, 2024  
+  **Authors:** Zheyu Yang, Taoyi Wang, Yihan Lin, Yuguo Chen, Hui Zeng, Jing Pei, Jiazheng Wang, Xue Liu, Yichun Zhou, Jianqiang Zhang, Xin Wang, Xinhao Lv, Rong Zhao & Luping Shi  
+  **Topics:** Vision Chip  
+  **[PDF](https://www.nature.com/articles/s41586-024-07358-4)**
+  
       
 - **Nature Medicine**
 
